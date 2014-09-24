@@ -1,0 +1,4 @@
+cron:
+- description: retrieve day's games
+ url: /admin/init_day
+ schedule: every day at 00:00
